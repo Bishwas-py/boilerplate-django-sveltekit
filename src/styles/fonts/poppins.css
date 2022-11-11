@@ -1,0 +1,17 @@
+/* Poppins Regular */
+@font-face {
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''), url('../../fonts/poppins/Poppins-Regular.ttf') format('truetype');
+}
+
+
+/* Poppins Medium */
+@font-face {
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 500;
+    src: local(''), url('../../fonts/poppins/Poppins-Medium.ttf') format('truetype');
+}
+

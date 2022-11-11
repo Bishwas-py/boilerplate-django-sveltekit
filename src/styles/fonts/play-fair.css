@@ -1,0 +1,96 @@
+/* Regular */
+@font-face {
+    font-family: 'play-fair';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-Regular.ttf') format('truetype');
+}
+
+/* Black */
+@font-face {
+    font-family: 'play-fair';
+    font-style: normal;
+    font-weight: 900;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-Black.ttf') format('truetype');
+}
+
+/* Black Italic */
+@font-face {
+    font-family: 'play-fair';
+    font-style: italic;
+    font-weight: 900;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-BlackItalic.ttf') format('truetype');
+}
+
+/* Bold */
+@font-face {
+    font-family: 'play-fair';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-Bold.ttf') format('truetype');
+}
+
+/* Bold Italic */
+@font-face {
+    font-family: 'play-fair';
+    font-style: italic;
+    font-weight: 700;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-BoldItalic.ttf') format('truetype');
+}
+
+/* ExtraBold */
+@font-face {
+    font-family: 'play-fair';
+    font-style: normal;
+    font-weight: 800;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-ExtraBold.ttf') format('truetype');
+}
+
+/* ExtraBold Italic */
+@font-face {
+    font-family: 'play-fair';
+    font-style: italic;
+    font-weight: 800;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-ExtraBoldItalic.ttf') format('truetype');
+}
+
+/* Italic */
+@font-face {
+    font-family: 'play-fair';
+    font-style: italic;
+    font-weight: 400;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-Italic.ttf') format('truetype');
+}
+
+/* Medium */
+@font-face {
+    font-family: 'play-fair';
+    font-style: normal;
+    font-weight: 500;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-Medium.ttf') format('truetype');
+}
+
+/* Medium Italic */
+@font-face {
+    font-family: 'play-fair';
+    font-style: italic;
+    font-weight: 500;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-MediumItalic.ttf') format('truetype');
+}
+
+/* SemiBold */
+@font-face {
+    font-family: 'play-fair';
+    font-style: normal;
+    font-weight: 600;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-SemiBold.ttf') format('truetype');
+}
+
+/* SemiBold Italic */
+@font-face {
+    font-family: 'play-fair';
+    font-style: italic;
+    font-weight: 600;
+    src: local(''), url('../../fonts/play-fair/PlayfairDisplay-SemiBoldItalic.ttf') format('truetype');
+}
+

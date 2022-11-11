@@ -1,0 +1,7 @@
+/* Regular */
+@font-face {
+    font-family: 'linksans';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''), url('../../fonts/linksans/linksans.woff2') format('woff2');
+}
